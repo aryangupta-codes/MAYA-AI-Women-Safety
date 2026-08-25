@@ -2,7 +2,7 @@
 # 🛡️ MAYA AI — Women Safety Assistant
 
 <p align="center">
-  <img src="assets/maya-preview.png" width="900">
+  <img src="assets/maya.png" width="900">
 </p>
 
 <h2 align="center">Your AI Companion for Safety & Empowerment</h2>
